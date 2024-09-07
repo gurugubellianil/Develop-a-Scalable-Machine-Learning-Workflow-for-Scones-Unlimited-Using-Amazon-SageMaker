@@ -50,10 +50,10 @@ The project aims to develop an image classification Machine Learning Model using
 
 #### 3.2.1. Step Function Output
 
-![Step Function Output](images/StepFunction(Working) - Above Threshold.png)
+![Step Function Output](images/StepFunction(Working)-Above-Threshold.png)
 
 Step Function fail based on Threshold value. (Reject under the threshold value)
-![Step Function Output](images/StepFunction(Fail) - Under Threshold.png)
+![Step Function Output](images/StepFunction(Fail)-Under-Threshold.png)
 
 ## License
 
