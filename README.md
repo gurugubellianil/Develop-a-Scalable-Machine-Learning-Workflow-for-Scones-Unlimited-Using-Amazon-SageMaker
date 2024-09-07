@@ -7,7 +7,7 @@ The primary objective of this project was to build and deploy an image classific
 
 ## 1. Overview
 
-This project was a part of the project assessment in the **'AWS x Udacity's Machine Learning Engineer Nanodegree Scholarship Program'**.
+This project was a part of the project assessment in the **'AWS Udacity's Machine Learning Engineer Nanodegree Scholarship Program'**.
 
 ## 2. Getting Started
 
@@ -53,6 +53,7 @@ The project aims to develop an image classification Machine Learning Model using
 ![Step Function Output](images/StepFunction(Working)-Above-Threshold.png)
 
 Step Function fail based on Threshold value. (Reject under the threshold value)
+
 ![Step Function Output](images/StepFunction(Fail)-Under-Threshold.png)
 
 ## License
